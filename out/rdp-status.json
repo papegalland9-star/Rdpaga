@@ -110,5 +110,16 @@
     "firewall7777": "verified_TCP_UDP_inbound_rules; not_public_forwarding",
     "errors": [],
     "public_port": false
-  }
+  },
+  "statistik": {
+    "ram_total_gb": 15.99,
+    "ram_used_gb": 2.83,
+    "ram_free_gb": 13.16,
+    "disk_total_gb": 255.4,
+    "disk_free_gb": 78.9,
+    "cpu_percent": 1,
+    "uptime_menit": 9,
+    "updated_at": "2026-10-16T21:06:25.0321653Z"
+  },
+  "heartbeat_at": "2026-10-16T21:06:25.0304788Z"
 }
